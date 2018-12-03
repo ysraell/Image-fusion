@@ -7,3 +7,4 @@ Image Fusion with Guided Filtering
 As proposed by Shutao Li, Member, IEEE, Xudong Kang, Student Member, IEEE, and Jianwen Hu
 @IEEE TRANSACTIONS ON IMAGE PROCESSING, VOL. 22, NO. 7, JULY 2013
 
+# See the presentation in PDF.
